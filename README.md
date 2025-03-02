@@ -1,6 +1,5 @@
 # 🚀 **DevOps Project: ZOMATO Clone App Deployment**
 
-In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** using a variety of modern DevOps tools and services.
 
 ## 🛠️ Tools & Services Used:
 
@@ -17,20 +16,8 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 
 ---
 
-### Project Stages:
-
-1. **Stage 1** - Deployment of App to Docker Container
-2. **Stage 2** - Deployment of App to K8S Cluster with Monitoring
-
----
-
-### 📂 GitHub Repo Link:  
-[**ZOMATO Clone DevOps Project**](#)
-
----
-
 ## Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastro-kiran/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeetnirmale/)
 
 ---
 
